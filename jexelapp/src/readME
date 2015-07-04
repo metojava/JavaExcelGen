@@ -1,0 +1,3 @@
+create database newjpa
+change user name and password in persistence.xml to your mysql username and password
+enjoy coding
